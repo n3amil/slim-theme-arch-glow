@@ -2,7 +2,7 @@
 # by Kamila Souckova <kamila@vesmir.sk>
 
 # Messages (e.g. shutdown)
-msg_color               #93d50b
+msg_color               #ff0000
 msg_font                Terminus:size=18:dpi=75
 msg_x                   50%
 msg_y                   74%
@@ -19,11 +19,11 @@ input_name_y            14
 input_pass_x            218
 input_pass_y            14
 input_font              Terminus:size=14:dpi=75
-input_color             #93d50b
+input_color             #ff0000
 
 # Username / password request
 username_font           Terminus:size=14:bold:dpi=75
-username_color          #93d50b
+username_color          #ff0000
 username_x              20
 username_y              14
 password_x              184
